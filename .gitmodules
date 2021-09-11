@@ -1,0 +1,6 @@
+[submodule "ASIO-Networker"]
+	path = ASIO-Networker
+	url = https://github.com/goofbrush/ASIO-Networker.git
+[submodule "SWR_Base"]
+	path = SWR_Base
+	url = https://github.com/goofbrush/SWR_Base.git
