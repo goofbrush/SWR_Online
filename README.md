@@ -16,3 +16,4 @@ qmake SWR_Client.pro
 make
 ./SWR_Client
 ```
+### [Windows] uuuhhh
