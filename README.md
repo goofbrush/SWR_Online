@@ -12,6 +12,6 @@ git clone --recurse-submodules https://github.com/goofbrush/SWR_Online.git
 cd SWR_Online
 qmake SWR_Client.pro
 make
-[LINUX] ./SWR_Client.pro
+[LINUX] ./SWR_Client
 [WINDOWS] start SWR_Client.exe
 ```
